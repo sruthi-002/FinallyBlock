@@ -15,7 +15,7 @@ class trycatch
         }
         catch(ArithmeticException e)
         {
-            System.out.println("PLease enter the valid number");
+            System.out.println("Please enter the valid number");
         }
         finally{
             System.out.println("You have an another chance");
